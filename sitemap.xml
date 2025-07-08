@@ -7390,6 +7390,11 @@
 		  <loc>https://www.sacrabiblia.com.br/ferramentas/formulario</loc>
 		  <priority>0.25</priority>
 		</url>"
+
+		"<url>
+		  <loc>http://t.me/SacraBibliaBot</loc>
+		  <priority>0.25</priority>
+		</url>"
 	
 	
 	<!-- PÁGINA JOGOS BÍBLICOS -->
